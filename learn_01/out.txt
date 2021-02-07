@@ -1,0 +1,60 @@
+$ ./learn_01/variable.sh 1 2
+this is a new world!
+Test: this is a new world!
+Test2: this is a new world!
+1000
+this is a new world! 1000 this is the third variable!
+this is a new world! 1000 this is the third variable!
+$var $var2 $var3
+this is a new world! : 1000 : this is the third variable!
+this is a new world! : 1000 : this is the third variable!
+$var : $var2 : $var3
+1
+var1
+2
+var2
+3
+var3
+
+
+ input params
+./learn_01/variable.sh
+1
+2
+
+
+ sys var
+BASH/bin/bash
+HOME/c/Users/Administrator
+HOSTNAME:USER-20200929LE
+LANG:C.UTF-8
+SECONDES:0
+SHELL:/usr/bin/bash
+PATH:/c/Users/Administrator/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/mingw64/bin:/usr/bin:/c/Users/Administrator/bin:/d/tools/eclipse/jdk-15.0.1/bin:/c/Program Files/Zulu/zulu-8/bin:/c/ant_adb:/c/ProgramData/Oracle/Java/javapath:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/d/Program Files/Microsoft VS Code/bin:/cmd:/d/AndroidSdk/platform-tools:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/d/Program Files (x86)/GnuPG/bin:/d/Program Files/TortoiseSVN/bin:/usr/bin:/d/AndroidSdk/build-tools/30.0.3:/c/Users/Administrator/AppData/Local/Programs/Microsoft VS Code/bin:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+
+ ls1
+ls -l
+ls -l
+LICENSE
+README.md
+learn_01
+
+
+ ls2
+(ls -l)
+(ls -l)
+LICENSE
+README.md
+learn_01
+
+
+ ls3
+total 13 -rw-r--r-- 1 Administrator 197121 11558 Feb 7 17:54 LICENSE -rw-r--r-- 1 Administrator 197121 38 Feb 7 17:54 README.md drwxr-xr-x 1 Administrator 197121 0 Feb 7 17:58 learn_01
+total 13
+-rw-r--r-- 1 Administrator 197121 11558 Feb  7 17:54 LICENSE
+-rw-r--r-- 1 Administrator 197121    38 Feb  7 17:54 README.md
+drwxr-xr-x 1 Administrator 197121     0 Feb  7 17:58 learn_01
+LICENSE
+README.md
+learn_01
