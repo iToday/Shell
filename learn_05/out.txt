@@ -1,0 +1,30 @@
+$ ./learn_05/function.sh
+hello, today is 'Wed Feb 10 21:40:40     2021'
+welcome back!
+
+
+this is the first function.
+now exiting funky function.
+
+now, the funky2 really begins.
+------funky2----x=0---
+------funky2----x=1---
+------funky2----x=2---
+now, the funky2 ends.
+
+enter the file name:README.md
+check files...
+the file exists...
+$@=
+$@=
+parameter
+this is the first parameter!
+
+parameter
+Goodbye parameter!
+
+return 36=36
+return 255=255
+return 256=0
+return 2645=61
+return -100=156
