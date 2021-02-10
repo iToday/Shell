@@ -1,0 +1,11 @@
+$ ./learn_04/file.sh
+./README.MD the file is exist!
+
+./README.MD the file exists.
+input a name of file:README.md
+the file exists.
+
+README.md exists.
+no such file.
+create a new file...
+file of tet create successed.
