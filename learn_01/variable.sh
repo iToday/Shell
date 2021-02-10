@@ -22,12 +22,17 @@ echo "$var : $var2 : $var3"	#this is a new world! : 1000 : this is the third var
 echo '$var : $var2 : $var3'	#$var : $var2 : $var3
 
 
+let var1=100
+let var2=1000
+let var3=10000
+
 #变量合成变量
 for var4 in 1 2 3
 do
 	echo $var4
 	var5=var${var4}
-	echo $var5
+	echo ${var5}=${!var5}
+	
 #	echo ${$var5}	#  ${$var5}: bad substitution
 
 done
