@@ -1,0 +1,81 @@
+$ ./learn_06/array.sh
+36[a]
+36
+guangdong[b]
+guangdong
+shenzhen[c]
+shenzhen
+my hometown is guangdong shenzhen.
+my hometown is guangdong shenzhen.
+
+explain:this is the first script.
+explain:this is the first script.
+this is the first script.
+
+A B C
+D E F
+G H I
+
+A
+B
+C
+D
+E
+F
+G
+H
+I
+
+>>two-dimensional array<<
+
+element2 element3 element4
+element5 element6 element7
+34 35 36
+37 38 39
+element of array3 is :element5 element6 element7
+element of array4 is :
+element of array5 is :
+Monday
+Monday
+onday
+esday
+
+Monday Tuesday Wednesday Thursday Friday
+Tuesday Wednesday Thursday Friday
+Wednesday Thursday
+
+First_Day Tuesday Wednesday Thursday Friday
+Monday vacationuesday Wednesday vacationhursday Friday
+Monday Tuesday Wednesday Thursday Day_Five
+
+<--delete character-->
+Tuesday Wednesday Thursday Friday
+Monday Tuesday Wednesday Thursday
+Monday Tuesday Wednesday Friday
+Monday Tuesday Thursday Friday
+
+<--add character-->
+Monday36 Tuesday36 Wednesday36 Thursday36 Friday36
+
+<--#-->
+6
+6
+7
+5
+<---->
+Monday Tuesday Wednesday Thursday Friday
+Monday Tuesday Wednesday Thursday Friday
+
+<--delete element-->
+Monday Wednesday Thursday Friday
+
+<--array copy-->
+array=Monday Wednesday Thursday Friday
+
+ARRAY2:Monday Wednesday Thursday Friday var_d=element5 var_e=element6 var_f=element7
+
+<--string-->
+abcdef123456789
+
+1
+
