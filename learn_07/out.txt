@@ -1,0 +1,32 @@
+$ ./learn_07/string.sh
+str1=root
+str1 != str2
+str1 is not null(-z)
+str1 is not null(-n).
+
+hello,this is xba1987@126.com
+
+hello,this is xba1987@126
+
+is xba1987@126.com. hi
+
+com. hi
+
+hello,this is xba1987@126.com
+
+hello,this is xba1987@126.
+
+root,x:0:0:root:/root:/bin/bash
+root,x,0,0,root,/root,/bin/bash
+str4 size:31
+str4 size:31
+str4 size:root:x:0:0:root:/root:/bin/bash:.*
+
+hello shell script.
+this is the first shell script.
+add it is bash shell.
+str5=hello shell script.
+the file of second line in ./learn_07/string.sh is: # this is second line
+
+the file of thirdly line in ./learn_07/string.sh is: # this is thirdly line
+
