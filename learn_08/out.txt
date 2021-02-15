@@ -1,0 +1,24 @@
+$ ./learn_08/regular.sh
+this is fist field message:PID
+this is fist field message:1728
+this is fist field message:S
+this is fist field message:7948
+this is fist field message:1088
+this is fist field message:3844
+this is fist field message:S
+this is fist field message:5536
+
+
+LICENSE 11558
+README.md       38
+learn_01/       0
+learn_02/       0
+learn_03/       0
+learn_04/       0
+learn_05/       0
+learn_06/       0
+learn_07/       0
+learn_08/       0
+
+./learn_08
+./learn_08/regular.sh
